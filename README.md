@@ -108,5 +108,10 @@ A medium-sized hospital in **Rawalpindi** could implement this HMS to:
 ## 📌 Conclusion
 
 Our Hospital Management System provides a modern, digital solution to manage essential hospital operations. By automating patient registration, appointments, and prescriptions, the system reduces workload and error while improving communication and clarity.
+![image](https://github.com/user-attachments/assets/94b69189-a31c-47ca-8929-f9ef6384c200)
+![image](https://github.com/user-attachments/assets/fcd2865f-6b66-4f87-bad5-562185ad79a8)
+![image](https://github.com/user-attachments/assets/9b64396b-3d33-4ea1-808e-763c71846c50)
+![image](https://github.com/user-attachments/assets/1722fe74-c21c-4844-a986-ae693c357aaf)
+
 
 
